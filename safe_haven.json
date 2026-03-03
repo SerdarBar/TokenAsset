@@ -2,14 +2,15 @@
   "name": "Safe Haven",
   "symbol": "SHN",
   "description": "A secure and protected token providing a haven in the crypto space.",
-  "image": "https://github.com/SerdarBar/TokenAsset/blob/db65e30cee0b8c7d572d05c60041a97c832ace21/SafeHaven.png",
+  "image": "https://raw.githubusercontent.com/SerdarBar/TokenAsset/db65e30cee0b8c7d572d05c60041a97c832ace21/SafeHaven.png",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://github.com/SerdarBar/TokenAsset/blob/db65e30cee0b8c7d572d05c60041a97c832ace21/SafeHaven.png",
+        "uri": "https://raw.githubusercontent.com/SerdarBar/TokenAsset/db65e30cee0b8c7d572d05c60041a97c832ace21/SafeHaven.png",
         "type": "image/png"
       }
     ]
   }
+
 }
